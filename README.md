@@ -11,3 +11,5 @@ Key Highlights:
 🏆 Designed a dynamic leaderboard to spotlight top contributors and boost user participation.
 
 🛠 Managed team collaboration, database schema design, session handling, and secure user authentication.
+
+<img src="./DbitTechForum/TechForum%20Images/1.jpg" alt="Your Alt Text Here" width="600">
