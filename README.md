@@ -37,7 +37,7 @@ CollegeTechForum/
 │   ├── templates/        # HTML templates
 │   │   ├── base.html     # Common layout (navbar, footer)
 │   │   ├── Home.html     # Homepage with queries & leaderboard
-│   │   ├── AllAnswer.html # Displays answers for a query
+│   │   ├── AllAnswer.html# Displays answers for a query
 │   │   ├── AllQueries.html
 │   │   ├── Answer.html
 │   │   ├── AskQuery.html
@@ -56,7 +56,6 @@ CollegeTechForum/
 │
 ├── manage.py
 └── README.md
-
 
 🚀 Getting Started
 Prerequisites
@@ -81,18 +80,66 @@ Username: admin
 Password: admin123
 
 📸 Screenshots
-<img src="./DbitTechForum/TechForum%20Images/1.jpg" alt="User login page." width="600">
-<img src="./DbitTechForum/TechForum%20Images/2.jpg" alt="User sign-up page." width="600">
-<img src="./DbitTechForum/TechForum%20Images/3.jpg" alt="Homepage with Trending queries🔥and leaderboard🏅." width="600">
-<img src="./DbitTechForum/TechForum%20Images/4.jpg" alt="Post your query" width="600">
-<img src="./DbitTechForum/TechForum%20Images/5.jpg" alt="Unanswered Query" width="600">
-<img src="./DbitTechForum/TechForum%20Images/6.jpg" alt="Contact Us" width="600">
-<img src="./DbitTechForum/TechForum%20Images/7.jpg" alt="About Us" width="600">
-<img src="./DbitTechForum/TechForum%20Images/8.jpg" alt="Category Based Filtering" width="600">
-<img src="./DbitTechForum/TechForum%20Images/9.jpg" alt="Using the search bar to find specific queries." width="600">
-<img src="./DbitTechForum/TechForum%20Images/10.jpg" alt="Detailed view of a single query." width="600">
-<img src="./DbitTechForum/TechForum%20Images/11.jpg" alt="Rating an answer to score its helpfulness." width="600">
-<img src="./DbitTechForum/TechForum%20Images/12.jpg" alt="Interface for submitting an answer to a query." width="600">
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/1.jpg" width="700">
+<br>
+<em>User login page.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/2.jpg" width="700">
+<br>
+<em>User sign-up page.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/3.jpg" width="700">
+<br>
+<em>Homepage with Trending queries🔥and leaderboard🏅.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/4.jpg" width="700">
+<br>
+<em>Post your query.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/5.jpg" width="700">
+<br>
+<em>Unanswered Query.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/6.jpg" width="700">
+<br>
+<em>Contact Us page.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/7.jpg" width="700">
+<br>
+<em>About Us page.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/8.jpg" width="700">
+<br>
+<em>Category-based filtering.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/9.jpg" width="700">
+<br>
+<em>Using the search bar to find specific queries.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/10.jpg" width="700">
+<br>
+<em>Detailed view of a single query.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/11.jpg" width="700">
+<br>
+<em>Rating an answer to score its helpfulness.</em>
+</p>
+<p align="center">
+<img src="./DbitTechForum/TechForum%20Images/12.jpg" width="700">
+<br>
+<em>Interface for submitting an answer to a query.</em>
+</p>
 
 🤝 Contributing
 Fork the repository
